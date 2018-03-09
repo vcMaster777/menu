@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="105dp"
+        android:text="Un cazabombardero es un avión de caza que también
+        es capaz de atacar objetivos en la superficie terrestre, buques
+         incluidos, por lo que está preparado para utilizar,
+         además de armamento aire-aire, armamento aire-tierra y aire-mar. " />
+</RelativeLayout>
